@@ -1,9 +1,9 @@
 ### your site title here
 
-title: Your Name
-description: subtitle | affiliations | motto
+title: Haotian Gong
+description: Undergrad at UBC
 
-baseurl: /gradfolio #name of GitHub repository
+baseurl: https://apricot2012.github.io/ #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
 email: #
 
@@ -45,10 +45,10 @@ compress_html:
 collections:
   projects:
     output: true
-    permalink: /projects/:path/
+    permalink: projects/:path/
 
 sass:
-  sass_dir: /assets/css/_sass
+  sass_dir: assets/css/_sass
   style: compressed
 
 include:
