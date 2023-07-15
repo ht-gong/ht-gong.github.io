@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Lyrical Articulator
-description: Tool that identify tonal irregularities that will impede the listener's interpretation of the lyrics.
+title: Course Copilot
+description: chatbot application that answers course material related questions using large language models
 ---
 
-Maintain project to process vocal melodies and their corresponding lyrics in Mandarin / Cantonese, and identify tonal irregularities that will impede the listener's interpretation of the lyrics.
+Conducted investigation and compared 3 major context extraction methods that grounds LLMs with factual truth, mitigating LLM ``hallucinations". Write-up: https://github.com/apricot2012/CourseCopilot/blob/main/ProjectReport.pdf
 
-[Github](https://github.com/apricot2012/Lyrical-Articulator)
+[Github](https://github.com/apricot2012/CourseCopilot)

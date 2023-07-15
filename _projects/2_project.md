@@ -1,11 +1,9 @@
 ---
 layout: post
-title: Amusement Park Management System
-description: Database-based app built with the Django framework
+title: Lyrical Articulator
+description: Tool that identify tonal irregularities that will impede the listener's interpretation of the lyrics.
 ---
 
-A database-based app built with the Django framework, that simulates a centralized management system of an amusement park.
+Maintain project to process vocal melodies and their corresponding lyrics in Mandarin / Cantonese, and identify tonal irregularities that will impede the listener's interpretation of the lyrics.
 
-Our code performs operations in SQL such as aggregation and division to perform key data transformations/extractions requested by the user.
-
-[Github](https://github.com/apricot2012/Amusement-Park-Django)
+[Github](https://github.com/apricot2012/Lyrical-Articulator)
