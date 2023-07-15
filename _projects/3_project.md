@@ -8,4 +8,4 @@ A database-based app built with the Django framework, that simulates a centraliz
 
 Our code performs operations in SQL such as aggregation and division to perform key data transformations/extractions requested by the user.
 
-[Github](https://github.com/apricot2012/Amusement-Park-Django)
+[Github](https://github.com/ht-gong/Amusement-Park-Django)

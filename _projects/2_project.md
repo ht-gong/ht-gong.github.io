@@ -6,4 +6,4 @@ description: Tool that identify tonal irregularities that will impede the listen
 
 Maintain project to process vocal melodies and their corresponding lyrics in Mandarin / Cantonese, and identify tonal irregularities that will impede the listener's interpretation of the lyrics.
 
-[Github](https://github.com/apricot2012/Lyrical-Articulator)
+[Github](https://github.com/ht-gong/Lyrical-Articulator)
