@@ -62,4 +62,14 @@ target="_blank">
 </a>
 {%- endif -%}
 
+{%- if site.google_scholar -%}
+<a title="{{ _locale_string_follow | replace: '[NAME]', 'Google Scholar' }}"
+class="social-button scholar"
+href="https://scholar.google.com/citations?user={{ site.google_scholar }}" itemprop="sameAs"
+target="_blank">
+<i class="fas fa-graduation-cap"></i>
+</a>
+{%- endif -%}
+
+
 </div>

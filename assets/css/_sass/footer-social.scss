@@ -80,6 +80,17 @@
   border-color: #000000;
 }
 
+.rounded-social-buttons .social-button.scholar {
+  background: #4285F4; /* Google's signature blue */
+}
+
+.rounded-social-buttons .social-button.scholar:hover, .rounded-social-buttons .social-button.scholar:focus {
+  color: #4285F4; /* Google's blue for text/icon */
+  background: #fefefe; /* White background on hover */
+  border-color: #4285F4; /* Border matches Google's blue */
+}
+
+
 .rounded-social-buttons .social-button.email {
   background: #60c17d;
 }
